@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="pin" label="Pin" language="en" table="x_150620_raspberry_raspconfig">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pin</element>
+            <help/>
+            <hint/>
+            <label>Pin</label>
+            <language>en</language>
+            <name>x_150620_raspberry_raspconfig</name>
+            <plural>Pins</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 10:49:48</sys_created_on>
+            <sys_id>28fb3b55db410300681ef11ebf9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pin</sys_name>
+            <sys_package display_value="RaspberryPI_Test" source="x_150620_raspberry">27dca3dddb010300681ef11ebf961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RaspberryPI_Test">27dca3dddb010300681ef11ebf961974</sys_scope>
+            <sys_update_name>sys_documentation_x_150620_raspberry_raspconfig_pin_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 10:49:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
